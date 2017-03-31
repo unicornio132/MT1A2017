@@ -1,0 +1,7 @@
+#Executei os seguintes comandos:
+#git clone
+#git status
+#git add
+#git commit -m "Comentário"
+#git push origin master
+#git pull
